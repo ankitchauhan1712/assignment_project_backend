@@ -1,0 +1,624 @@
+
+
+.imagewrapper {
+  height: 150px;
+  /* width: 80%; */
+  padding-top: 30px;
+  margin: auto;
+  margin-left: 157px;
+}
+
+
+.academicTxp {
+  margin-top: 70px;
+  height: 75px;
+}
+
+.academicTxt {
+  font-weight: 600;
+  font-size: 40px;
+
+}
+.boderright{
+  margin-left: 3px;
+  margin-right: 8px;
+  border-right: 1px solid #ccc;
+}
+.contact{
+  font-size: 12px;
+  margin-left: 157px;
+}
+.Uae{
+  font-size: 12px;
+  margin-left: 106px;
+}
+.email{
+  margin-left: 201px;
+    font-size: 15px;
+}
+.tollfree{
+  font-size: 15px;
+  margin-left: 160px;
+  margin-top: 15px;
+}
+
+.hospital {
+  height: 70px;
+
+}
+.hospital01{
+  height: 35px;
+}
+
+.academicTxt2 {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+
+
+.customcss{
+  border: 1px solid black;
+  text-align: center;
+}
+
+table,
+td {
+  border: 0px solid black;
+
+  
+}
+.dataValue{
+  text-align: center;
+}
+.operations{
+  padding-top: 30px;
+  color: #000;
+  font-size: 14px;
+  font-weight: 600;
+
+}
+.awardWrapper{
+  height: 300px;
+  width: 50%;
+}
+ul{
+  list-style-type: none;
+  padding: 0;
+}
+.operations2{
+  padding-top: 10px;
+}
+.admistrator{
+  height: 80px;
+  margin-top: 100px;
+  font-size: 21px;
+}
+.Footerdata{
+  height: 130px;
+  width: 87%;
+  margin: auto;
+  
+}
+.admistrator01{
+  display: flex;
+  margin-top: 100px;
+  font-size: 21px;
+}
+h6{
+  text-align: end;
+}
+.footerTable{
+  height: 200px;
+  
+}
+.footerTable1{
+  height: 180px;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 100px;
+  border: 1px solid #000;
+}
+.footerText{
+  text-align: justify;
+    padding: 13px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.D {
+  padding-right: 20px;
+  padding-left: 10px;
+}
+.footerText2{
+  padding: 13px;
+    font-size: 16px;
+    font-weight: 600;
+
+}
+.footerTexttd{
+ 
+ padding: 0 10px;
+
+}
+.footerTexttdx{
+  padding: 10px;
+ 
+ }
+ .popclose{
+  background: transparent !important;
+  border: 0;
+  color: #000 !important;
+  font-size: 24px;
+  position: absolute;
+  right: 15px;
+  top: 0;
+  z-index: 9;
+  width: 25px
+  
+
+ }
+ .modalOuter1 {
+  max-width: 1020px!important;
+}
+.imagewrapper2 {
+  height: 135px;
+  /* width: 90%; */
+  margin-top: 54px;
+  margin: auto;
+  margin-left:-28px;
+ 
+ 
+ 
+}
+.academicTxp1 {
+  height: 55px;
+}
+.academicTxt1 {
+  font-weight: 600;
+  font-size: 38px;
+}
+.academicTxt02 {
+  font-size: 18px;
+  font-weight: 600;
+}
+.backbtn {
+  background: #0099ff;
+  width: 140px;
+  height: 40px;
+  border-radius: 25px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  border: 0;
+  color: #fff;
+  margin-left: 0px;
+}
+.addressWrapper001{
+  padding-top: 32px;
+  padding-left: 486px;
+}
+.awardfont{
+  font-size: 13px;
+}
+.principleWrapper{
+  display: flex;
+  height: 120px;
+ 
+}
+.data1{
+  width: 50%;
+  padding-top: 70px;
+}
+.data2{
+  width: 50%;
+  text-align: end;
+  padding-top: 70px;
+}
+.footer01{
+  height: 160px;
+  margin-top: 0px;
+  display: flex;
+  
+}
+
+.footerpdf{
+  height: 100px;
+  width: 40%;
+ padding-top: 23px;
+}
+.footerRight{
+  width: 60%;
+  height: 100px;
+  padding-top: 42px;
+}
+.dc{
+  font-size: 12px;
+}
+.collapse.navcollepsOuter {
+  display: block !important;
+  text-align: center;
+}
+.modal-bodyBx {
+  margin: 20px auto;
+}
+.academicTxp_pdf1{
+  height: 60px !important;
+}
+.hospital01_pdf{
+  height: 41px;
+}
+.modal-header {
+ border-bottom: 0px solid #e9ecef !important;
+
+}
+.collapse.navbar-collapse.navbar_center{
+  display: block!important;
+}
+.loader_wrap svg{
+  
+    margin-top: -21px;
+    margin-left: 10px;
+
+  
+  
+}
+
+
+* {margin:0; padding:0; outline:0; -webkit-box-sizing:border-box; box-sizing:border-box; list-style:none;}
+body {font-size:15px; line-height:normal; color: #000000; background: transparent;}
+a {outline:none; text-decoration:none !important; color:#000; cursor: pointer; -webkit-transition:ease-in-out .3s; -moz-transition:ease-in-out .3s; -ms-transition:ease-in-out .3s; -o-transition:ease-in-out .3s; transition:ease-in-out .3s;}
+a:hover {text-decoration:none;}
+input, textarea, select {font-size:14px; color:#000; vertical-align:middle; outline:none; resize:none;}
+input[type="button"], input[type="submit"], button {-webkit-transition:ease-in-out .3s; -moz-transition:ease-in-out .3s; -ms-transition:ease-in-out .3s; -o-transition:ease-in-out .3s; transition:ease-in-out .3s; -moz-appearance:none; -webkit-appearance:none; appearance:none; border: none; cursor: pointer;}
+select {appearance: none; -ms-appearance: none; -webkit-appearance: none;}
+select::-ms-expand {display: none;}
+.transition {-webkit-transition:ease-in-out .5s; -moz-transition:ease-in-out .5s; -ms-transition:ease-in-out .5s; -o-transition:ease-in-out .5s; transition:ease-in-out .5s;}
+img {border:none; vertical-align:top; max-width:100%;}
+
+
+/* 06/06/23 */
+.stateCountry .err_msg {
+  display: none;
+  font-size: 15px;line-height: 24px;color:red
+}
+.stateCountry .errorCont .err_msg {
+  display: block;
+  color: green;
+}
+
+
+
+
+
+/********************New MBTS Css Applied for Admin************************/
+.fade_wrapper {
+  width: 100%;
+  height: 100vh;
+  background: rgba(255,255,255,0.2);
+  display: flex;
+  display: -webkit-flex;
+  justify-content: center;
+  align-items: center;
+}
+.box_wrapper {
+  max-width: 600px;
+  width: 100%;
+  padding: 40px 50px;
+  box-shadow: 0px 10px 50px #0000004d;
+  border-radius: 16px;
+  margin: 0 auto;
+  background: #fff;
+}
+.pop_hd {
+  font-size: 30px;
+  line-height: 36px;
+  margin-bottom: 20px;
+  text-align: center;
+  letter-spacing: 0px;
+  color: #232e35;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+.pop_text {
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  color: #232e35;
+  margin-bottom: 30px;
+}
+.form_grp {
+  position: relative;
+  margin-bottom: 20px;
+}
+.form_ctrl {
+  width: 100%;
+  padding: 22px 30px;
+  height: 66px;
+  font-size: 16px;
+  line-height: 20px;
+  color: #676d7d;
+  background: #ffffff;
+  border: 1px solid #d2d2d2;
+  border-radius: 33px;
+}
+.form_ctrl:focus {
+  background-color: #f8f8f8;
+  border-color: #32b588;
+  outline: 0;box-shadow: none;
+}
+.popFormBtn {
+  text-align: center;
+}
+
+.popFBtn {
+  font-size: 18px;
+  line-height: 21px;
+  padding: 22px 65px;
+  background-color: #32b588;
+  border-radius: 33px;
+  color: #fff;
+  font-weight: 500;
+  text-align: center;
+  text-transform: none;
+  text-decoration: none;
+  display: inline-block;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  transition: all 0.5s ease-in;
+  -webkit-transition: all 0.5s ease;
+  box-shadow: none !important;
+}
+
+.popFBtn:hover {
+  background-color: #32b588;
+  background-image: linear-gradient(90deg, #32b588 0%, #3da4b4 100%);
+  color: #fff;
+}
+
+.wd-100 {
+  width: 100%;
+}
+.forget_passBtn {
+  font-size: 16px;
+  line-height: 20px;
+  background: transparent;
+  outline: 0;
+  border: none;
+  color: #00B347;
+  font-weight: 500;
+  padding: 0;
+  transition: all 0.5s ease;
+}
+.forget_pass {
+  display: flex;justify-content: flex-end;
+  margin-bottom: 25px;
+}
+.forget_passBtn:hover  {
+  /* text-decoration: underline !important; */
+  background-color: transparent;
+  color: #015e27;
+}
+.alreadyAcc a:hover {
+  background-color: transparent;
+  color: #015e27!important;
+}
+.error_msg {
+  display: block;
+  font-size: 15px;
+  color: rgb(255, 0, 0);
+  margin-top: 3px;
+}
+.form_logo {
+  margin-bottom: 40px;text-align: center;
+}
+.alreadyAcc p {
+  padding-top: 30px;
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: 0;
+  color: #232e35;
+}
+.alreadyAcc p, .alreadyAcc a, .alreadyAcc p button {
+  font-size: 16px;
+  line-height: 20px;
+}
+.alreadyAcc a, .alreadyAcc p button {
+  display: inline-block;
+  text-decoration: none;
+  color: #32b588 !important;
+  cursor: pointer;
+  transition: all 0.5s ease-in;
+  -webkit-transition: all 0.5s ease;
+}
+.box_wrapper form .form_grp:last-child {
+  margin-bottom: 10px;
+}
+.mb-10 {
+  margin-bottom: 10px;
+}
+
+.modal.fade {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.8);
+  overflow: auto;
+}
+.modal-dialog.mbtsModCont {
+  max-width: 600px;
+  width: 100%;
+  padding: 35px 50px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) !important;
+  background: #fff;
+  box-shadow: 0px 10px 50px #0000004d;
+  border-radius: 16px;
+  margin: 0px auto;
+}
+.mbtsModCont .modal-content {
+  padding: 0;
+  border: none;
+  border-radius: 0;
+}
+.mbtsModCont .modal-body {
+  padding: 0;
+}
+.popIconWrp {
+  margin-bottom: 30px;
+  text-align: center;
+}
+.popIconWrp img {
+  vertical-align: middle;
+}
+.popCloseBtn {
+  position: absolute;
+  right: -25px;
+  top: -25px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background: transparent !important;
+  padding: 0;
+  margin: 0;
+  outline: none!important;box-shadow: none!important;
+}
+.popCloseBtn img {
+  vertical-align: middle;
+}
+span.passEye {
+  position: absolute;
+  right: 30px;
+  top: 50%;
+  transform: translateY(-50%);
+  margin-bottom: 0;
+  display: inline-block;
+  cursor: pointer;
+}
+.error~span.passEye {
+    top: 50%;
+}
+.form_ctrl.error {
+  border-color: rgb(255, 0, 0);
+}
+.table td {
+  padding: 10px 10px !important;
+}
+
+
+
+
+/* 23Nov */
+/* .stateCountry .err_msg.csc_msg {
+  display: block;
+}
+.stateCountry.sccFld .error_fld .stdropdown-container {
+ 
+   border: 1px solid red;
+}
+.stateCountry.sccFld  .stdropdown-container {
+  
+   border: 1px solid red;
+} */
+
+/* ****************country state city error css****************** */
+.stateCountry {
+  margin-bottom: 25px;
+}
+.fld_csc {
+  position: relative;
+}
+
+.stateCountry .fld_csc span.error_msg {
+  display: none!important;
+  position: absolute;
+  margin: 0;
+}
+.stateCountry .fld_csc.error_fld span.error_msg {
+  display: inline-block!important;
+}
+.stateCountry .error_fld .stdropdown-container {
+  border-color: red;
+}
+
+
+/* ****************************** */
+
+
+
+/* 31 jan css */
+.noData p {
+  font-size: 16px;
+  line-height: 1.2;
+  margin: 10px 0;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.dtxt {
+  display: block;
+}
+.cmtPop {
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: column;
+  align-items: center;
+}
+span.popIcn {
+  color: #32b588;
+  color: #0b9364;
+  font-size: 40px;
+}
+.cmtPop h2 {
+  font-size: 30px;
+  text-transform: capitalize;
+  margin: 0px 0 10px;
+}
+.cmtPop p {
+  font-size: 16px;
+  line-height: 1.2;
+  margin-bottom: 10px;
+  margin: 0 0 20px;
+  text-align: center;
+}
+.cmtPop p.inq_ppl {
+  font-size: 16px;
+  line-height: 1.2;
+  font-weight: 600;
+  color: #32b588;
+  color: #0b9364;
+  margin-bottom: 10px;
+}
+span.inqName {
+  display: block;
+  font-weight: 600;
+  text-transform: capitalize;
+  margin-bottom: 2px;
+}
+
+.loaderCont {
+  background: #fff;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  opacity: 0.9;
+}
+
+
+/* 20 mar */
+.table tbody td {
+    position: relative;
+}
+.tbl_loaderWrp {
+  height: 400px;
+}
+.tbl_loaderWrp .loaderCont {
+  position: absolute;
+}
+
